@@ -2,3 +2,17 @@
     background-color: #f08192 ;
     font-family: Verdana,DejaVu Sans,sans-serif;
 }
+
+#bluetxt{
+    color: blue;
+    font-size: 36px;
+}
+
+.odd.big{
+    font-size: 24px;
+}
+
+#greenbck{
+    background-color: #429948;
+}
+
