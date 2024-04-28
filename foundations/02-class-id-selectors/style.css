@@ -3,13 +3,13 @@
     font-family: Verdana,DejaVu Sans,sans-serif;
 }
 
+.big-font{
+    font-size: 24px;
+}
+
 #bluetxt{
     color: blue;
     font-size: 36px;
-}
-
-.odd.big{
-    font-size: 24px;
 }
 
 #greenbck{
